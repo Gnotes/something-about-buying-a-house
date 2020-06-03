@@ -8,3 +8,5 @@
 - [期房](./terms/qifang.md)
 - [公摊面积](./terms/gongtanmianji.md)
 - [产权](./terms/chanquan.md)
+- [等额本金](./terms/dengebenjin.md)
+- [等额本息](./terms/dengebenxi.md)
