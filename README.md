@@ -11,7 +11,7 @@
 - [产权](./terms/chanquan.md)
 - [等额本金](./terms/dengebenjin.md)
 - [等额本息](./terms/dengebenxi.md)
-- [贷款市场报价利率](./terms/lpr.md)
+- [LPR-贷款市场报价利率](./terms/lpr.md)
 
 ### 必读好文
 
