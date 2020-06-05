@@ -12,6 +12,7 @@
 - [等额本金](./terms/dengebenjin.md)
 - [等额本息](./terms/dengebenxi.md)
 - [LPR-贷款市场报价利率](./terms/lpr.md)
+- [承重结构](./terms/chengzhongjiegou.md)
 
 ### 必读好文
 
