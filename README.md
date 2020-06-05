@@ -8,6 +8,7 @@
 - [期房](./terms/qifang.md)
 - [公摊面积](./terms/gongtanmianji.md)
 - [面宽与进深](./terms/miankuanyujinshen.md)
+- [层高与净高](./terms/cenggaoyujinggao.md)
 - [产权](./terms/chanquan.md)
 - [等额本金](./terms/dengebenjin.md)
 - [等额本息](./terms/dengebenxi.md)
@@ -17,3 +18,4 @@
 ### 必读好文
 
 [怎样的房子才算户型方正？怎样的户型是好户型？](https://www.zhihu.com/question/19669880/answer/789849707)
+[房地产知识 300 问！纯干货！](https://zhuanlan.zhihu.com/p/82697096)
