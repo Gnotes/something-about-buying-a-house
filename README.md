@@ -11,3 +11,7 @@
 - [产权](./terms/chanquan.md)
 - [等额本金](./terms/dengebenjin.md)
 - [等额本息](./terms/dengebenxi.md)
+
+### 必读好文
+
+[怎样的房子才算户型方正？怎样的户型是好户型？](https://www.zhihu.com/question/19669880/answer/789849707)
