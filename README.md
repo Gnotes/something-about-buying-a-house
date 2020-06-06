@@ -19,6 +19,7 @@
 - [公积金](./terms/gongjijin.md)
 - [必须的！售房证件](./terms/shoufangzhengjian.md)
 - [沙盘](./terms/shapan.md)
+- [样板间](./terms/yangbanjian.md)
 
 ### 必读好文
 
