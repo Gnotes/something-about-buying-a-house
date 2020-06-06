@@ -17,6 +17,8 @@
 - [承重结构](./terms/chengzhongjiegou.md)
 - [车位](./terms/chewei.md)
 - [公积金](./terms/gongjijin.md)
+- [必须的！售房证件](./terms/shoufangzhengjian.md)
+- [沙盘](./terms/shapan.md)
 
 ### 必读好文
 
@@ -24,3 +26,5 @@
 - [房地产知识 300 问！纯干货！](https://zhuanlan.zhihu.com/p/82697096)
 - [什么是赠送面积？常见的赠送面积有哪些？](https://baijiahao.baidu.com/s?id=1620173292088277201&wfr=spider&for=pc)
 - [买房看房时需要注意哪些？](https://www.zhihu.com/question/24464072/answer/834999329)
+- [第一次买房需要注意些什么？](https://www.zhihu.com/question/304514583/answer/959389230)
+- [购新房技巧](https://zhuanlan.zhihu.com/p/92307759)
