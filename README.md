@@ -7,7 +7,7 @@
 - [现房](./terms/xianfang.md)
 - [期房](./terms/qifang.md)
 - [公摊面积](./terms/gongtanmianji.md)
-- [赠送面积](./zengsongmianji.md)
+- [赠送面积](./terms/zengsongmianji.md)
 - [面宽与进深](./terms/miankuanyujinshen.md)
 - [层高与净高](./terms/cenggaoyujinggao.md)
 - [产权](./terms/chanquan.md)
@@ -15,7 +15,7 @@
 - [等额本息](./terms/dengebenxi.md)
 - [LPR-贷款市场报价利率](./terms/lpr.md)
 - [承重结构](./terms/chengzhongjiegou.md)
-- [车位](./chewei.md)
+- [车位](./terms/chewei.md)
 
 ### 必读好文
 
