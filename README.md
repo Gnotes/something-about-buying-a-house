@@ -16,6 +16,7 @@
 - [LPR-贷款市场报价利率](./terms/lpr.md)
 - [承重结构](./terms/chengzhongjiegou.md)
 - [车位](./terms/chewei.md)
+- [公积金](./terms/gongjijin.md)
 
 ### 必读好文
 
