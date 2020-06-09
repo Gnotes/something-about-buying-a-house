@@ -16,10 +16,13 @@
 - [LPR-贷款市场报价利率](./terms/lpr.md)
 - [承重结构](./terms/chengzhongjiegou.md)
 - [车位](./terms/chewei.md)
+- [物业](./terms/wuye.md)
+- [电梯](./terms/dianti.md)
 - [公积金](./terms/gongjijin.md)
 - [必须的！售房证件](./terms/shoufangzhengjian.md)
 - [沙盘](./terms/shapan.md)
 - [样板间](./terms/yangbanjian.md)
+- [外立面](./terms/wailimian.md)
 
 ### 必读好文
 
@@ -29,3 +32,6 @@
 - [买房看房时需要注意哪些？](https://www.zhihu.com/question/24464072/answer/834999329)
 - [第一次买房需要注意些什么？](https://www.zhihu.com/question/304514583/answer/959389230)
 - [购新房技巧](https://zhuanlan.zhihu.com/p/92307759)
+- [买房小知识：如何鉴别房子外立面的价格与好坏？](https://zhuanlan.zhihu.com/p/79040867)
+- [买房小知识：如何区别是 3 房还是 2+1 房？](https://zhuanlan.zhihu.com/p/78187883)
+- [今天来说一个电梯多层户型的坑!](https://zhuanlan.zhihu.com/p/67953897)
