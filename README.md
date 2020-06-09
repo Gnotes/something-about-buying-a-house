@@ -24,6 +24,14 @@
 - [样板间](./terms/yangbanjian.md)
 - [外立面](./terms/wailimian.md)
 
+### 相关网站
+
+- [当地政府房产-**!!!官网!!!**](./terms/offical-website.md)
+
+### 相关电话
+
+- [公积金](./terms/gongjijin.md)： `城市区号＋ 12329`
+
 ### 必读好文
 
 - [怎样的房子才算户型方正？怎样的户型是好户型？](https://www.zhihu.com/question/19669880/answer/789849707)
