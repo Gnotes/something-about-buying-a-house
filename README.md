@@ -35,3 +35,4 @@
 - [买房小知识：如何鉴别房子外立面的价格与好坏？](https://zhuanlan.zhihu.com/p/79040867)
 - [买房小知识：如何区别是 3 房还是 2+1 房？](https://zhuanlan.zhihu.com/p/78187883)
 - [今天来说一个电梯多层户型的坑!](https://zhuanlan.zhihu.com/p/67953897)
+- [用一篇长文，告诉你怎么挑选要买的房子！](https://zhuanlan.zhihu.com/p/67412211)
