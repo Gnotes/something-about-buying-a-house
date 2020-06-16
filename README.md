@@ -24,6 +24,7 @@
 - [样板间](./terms/yangbanjian.md)
 - [外立面](./terms/wailimian.md)
 - [税费](./terms/shuifei.md)
+- [变更](./terms/biangeng.md)
 
 ### 相关网站
 

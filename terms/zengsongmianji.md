@@ -38,4 +38,5 @@
 
 ### 参考
 
-[什么是赠送面积？常见的赠送面积有哪些？](https://baijiahao.baidu.com/s?id=1620173292088277201&wfr=spider&for=pc)
+- [什么是赠送面积？常见的赠送面积有哪些？](https://baijiahao.baidu.com/s?id=1620173292088277201&wfr=spider&for=pc)
+- [买房“送”面积？ | 视频](https://www.zhihu.com/zvideo/1255612776137043968)
