@@ -37,6 +37,7 @@
 ### 必读好文
 
 - [怎样的房子才算户型方正？怎样的户型是好户型？](https://www.zhihu.com/question/19669880/answer/789849707)
+- [购房攻略之挑选户型](https://zhuanlan.zhihu.com/p/144633840)
 - [房地产知识 300 问！纯干货！](https://zhuanlan.zhihu.com/p/82697096)
 - [什么是赠送面积？常见的赠送面积有哪些？](https://baijiahao.baidu.com/s?id=1620173292088277201&wfr=spider&for=pc)
 - [买房看房时需要注意哪些？](https://www.zhihu.com/question/24464072/answer/834999329)
