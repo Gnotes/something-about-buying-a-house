@@ -48,3 +48,4 @@
 
 - [第一次买房需要注意些什么？](https://www.zhihu.com/question/304514583/answer/959389230)
 - [售楼处沙盘大揭秘，7 招教你正确看懂沙盘！](https://zhuanlan.zhihu.com/p/71318938)
+- [买房时，如何挑选楼栋位置和楼层位置？1~33 楼层利弊全分析！](https://zhuanlan.zhihu.com/p/51912892)
